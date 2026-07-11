@@ -1,0 +1,19 @@
+<svg width="1600" height="260" viewBox="0 0 1600 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="260" rx="28" fill="#0D0B0C"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="40" y="40" width="480" height="180" rx="22" fill="#120E0F" stroke="#302326"/>
+    <text x="78" y="92" fill="#B00020" font-size="18" letter-spacing="3">SISTEMAS WEB</text>
+    <text x="78" y="136" fill="#F6F1E8" font-size="31" font-weight="700">Plataformas a medida</text>
+    <text x="78" y="174" fill="#9D9497" font-size="20">ERP · CRM · Paneles · Portales</text>
+
+    <rect x="560" y="40" width="480" height="180" rx="22" fill="#20070D" stroke="#5A0A1A"/>
+    <text x="598" y="92" fill="#D34A61" font-size="18" letter-spacing="3">AUTOMATIZACIÓN</text>
+    <text x="598" y="136" fill="#F6F1E8" font-size="31" font-weight="700">Procesos más eficientes</text>
+    <text x="598" y="174" fill="#BFAFB3" font-size="20">APIs · n8n · Workflows · Webhooks</text>
+
+    <rect x="1080" y="40" width="480" height="180" rx="22" fill="#120E0F" stroke="#302326"/>
+    <text x="1118" y="92" fill="#B00020" font-size="18" letter-spacing="3">INTELIGENCIA ARTIFICIAL</text>
+    <text x="1118" y="136" fill="#F6F1E8" font-size="31" font-weight="700">IA aplicada al negocio</text>
+    <text x="1118" y="174" fill="#9D9497" font-size="20">Agentes · Chatbots · Documentos</text>
+  </g>
+</svg>
